@@ -46,7 +46,7 @@ c1, c2, cI = self.kunci # c1 = 7 c2 = 3 cI = 55
 
 ## Screenshots
 + Encrypt 
-![template_s](https://github.com/kelas-kode/Affine_Chiper/blob/main/Screenshot_20210302-055055817.jpg) 
+![template_s](https://github.com/kelas-kode/Affine_Chiper/blob/main/Screenshot_20210302-055055817~01.jpg) 
 + Decrypt
 ![template_s](https://github.com/kelas-kode/Affine_Chiper/blob/main/Screenshot_20210302-055105887~01.jpg)
 <br>
