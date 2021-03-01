@@ -45,10 +45,10 @@ c1, c2, cI = self.kunci # c1 = 7 c2 = 3 cI = 55
 ```
 
 ## Screenshots
-+ cara menggunakan
-![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/Screenshot_20210226-044749373~01.jpg) 
-+ hasilnya
-![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/f2adb4945cff.jpg)
++ Encrypt 
+![template_s](https://github.com/kelas-kode/Affine_Chiper/blob/main/Screenshot_20210302-055055817.jpg) 
++ Decrypt
+![template_s](https://github.com/kelas-kode/Affine_Chiper/blob/main/Screenshot_20210302-055105887~01.jpg)
 <br>
 <p align="center">
 ©Copyright Kelas Kode
