@@ -25,8 +25,8 @@ Affine Cipher adalah algoritma kriptografi yang dikembangkan dari metode Caesar 
 </p> 
 
 ## Fitur
-+ Bot tulis biasa
-+ Bot tulis lewat file
++ Enkripsi Affine Chiper 
++ Dekripsi Affine Cipher
 
 ## INSTALL
 ```bash
